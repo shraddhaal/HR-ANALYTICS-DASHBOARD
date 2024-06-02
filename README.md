@@ -7,7 +7,7 @@ The HR Analytics Dashboard provides key insights into employee demographics, att
 - Boost employee satisfaction and productivity.
 - Make data-driven HR decisions.
 
-## KPIs (Key Performance Indicators)
+## Key Performance Indicators (KPIs)
 1. Overall Employees : Total number of employees in the organization.
 2. Attrition & Attrition Rate : Number and percentage of employees leaving the organization over a specific period.
 3. Avg. Salary : Average salary of employees in the organization.
